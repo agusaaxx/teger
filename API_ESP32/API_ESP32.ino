@@ -6,7 +6,7 @@
 
 
 char ssid[] = "TP-Link_65GVk2";
-char pass[] = "beraklah";
+char pass[] = "berakalah";
 const char* serverName = "http://35.208.235.8:5000/api/v1/devices/data";
 unsigned long lastTime = 0;
 unsigned long timerDelay = 5000;
